@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73bc1b87-f0cb-411f-9cc2-ab73c28a5728</testCaseGuid>
+   <variable>
+      <defaultValue>'https://katalon-demo-cura.herokuapp.com/'</defaultValue>
+      <description></description>
+      <id>216b6473-e43c-4a34-a054-e026e093bfcf</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>db21348d-bc9d-40e3-b093-355bdb9b08e2</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
